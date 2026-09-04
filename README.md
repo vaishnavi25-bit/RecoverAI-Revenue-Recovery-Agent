@@ -67,31 +67,25 @@ CSV Transaction Data
 ### Data
 
 * CSV
-
+  
 ## 📂 Project Structure
 
 ```text
-RecoverAI/
+RecoverAI-Revenue-Recovery-Agent/
 │
-├── backend/
-│   ├── agent.py
-│   ├── data.csv
-│   └── main.py
-│
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── App.jsx
-│   │   └── ...
-│   ├── .gitignore
-│   ├── .oxlintrc.json
-│   ├── index.html
-│   ├── package.json
-│   ├── package-lock.json
-│   └── vite.config.js
-│
-├── README.md
-└── .gitignore
+├── agent.py
+├── data.csv
+├── main.py
+├── App.jsx
+├── index.html
+├── package.json
+├── package-lock.json
+├── vite.config.js
+├── .gitignore
+├── .oxlintrc.json
+├── favicon.svg
+└── README.md
+
 ```
 
 ## 🔄 How It Works
